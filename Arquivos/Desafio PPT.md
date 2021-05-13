@@ -14,3 +14,8 @@
 ### papel »» pedra
 ### pedra »» tesoura
 ### tesoura »» papel
+
+
+![](https://github.com/MoacirParticular/POO-o-que-programa-o-orientada-a-objetos/blob/main/Imagens/Yoda-Muito-A-Aprender-Voce-Ainda-Tem.jpg)
+
+[Faça ou Não Faça, não existe Tentar](https://github.com/MoacirParticular/POO-o-que-programa-o-orientada-a-objetos/blob/main/Desafios/POO-PPT.playground/Contents.swift)
