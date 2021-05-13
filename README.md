@@ -275,10 +275,14 @@ atleta.andar()
 
 ```
 
-![](https://github.com/MoacirParticular/POO-o-que-programa-o-orientada-a-objetos/blob/main/POO%20-%20Métodos.png)
-
-
 Veja que no exemplo acima não conseguiremos alterar o método andar(), pois ele contém a palavra _final_ em sua estrutura e o compilador irá apresentar um erro quando tentarmos fazer a reescrita do método.
+
+
+### Imagem da Ide com o exemplo
+![](https://github.com/MoacirParticular/POO-o-que-programa-o-orientada-a-objetos/blob/main/POO-Polimorfismo%20Erro.png)
+
+
+
 
 
 ##### vou citar como fonte de inspiração para os exemplos e um pouco de teoria
