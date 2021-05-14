@@ -34,7 +34,7 @@ Uma boa forma de compreender uma classe é pensar nela como o projeto ou a model
  
 Ainda com base nesse exemplo, considere a Figura, que ilustra o relacionamento entre a classe robô, que é apenas uma ideia ou projeto, e os objetos robôs, que são manifestações da ideia de robô.
 
-![](https://github.com/MoacirParticular/POO-o-que-programa-o-orientada-a-objetos/blob/main/Imagens/POO%20-%20Classes:Atributos.png)
+![](https://github.com/MoacirParticular/MoacirParticular/blob/main/Imagens/POO%20-%20Classes:Atributos.png)
 
 
 >_Objetos podem armazenar estados através das suas propriedades, executar ações através de métodos e se relacionar além de enviar mensagens a outros objetos. Podemos dizer que criar um objeto é dar vida a uma classe._
@@ -58,7 +58,7 @@ Um atributo é um elemento que representa as características intrínsecas da cl
 Vamos, então, retornar à nossa ideia de robô: suponhamos que, para caracterizarmos alguns robôs, os seguintes atributos possam ser criados: nome, cor, velocidade máxima, nível atual da bateria, peso da carga máxima suportada, tipo de tração, e presença ou não de antena. 
 Analise a Figura, em que são acrescentados, dentro da estrutura de classe e objeto, os atributos mencionados.
 
-![](https://github.com/MoacirParticular/POO-o-que-programa-o-orientada-a-objetos/blob/main/Imagens/POO%20-%20Atributos.png)
+![](https://github.com/MoacirParticular/MoacirParticular/blob/main/Imagens/POO%20-%20Atributos.png)
 
 ### Essa figura mostra que:
 * O primeiro robô (acima) foi construído com base na classe robô e foram-lhe atribuídos o nome R-801, a cor azul, a velocidade de 6 metros por segundo, o nível atual da bateria em 78%, o peso máximo de carga suportado de 10 kg, o tipo de tração (esteira) e a presença antena. 
@@ -76,7 +76,7 @@ _A ideia de classe, até onde foi apresentada aqui, é semelhante à ideia de re
 Outro elemento importante de uma classe são os métodos. Um método dá ao objeto da classe a capacidade de executar algum tipo de ação, comportamento ou processamento. Um robô é capaz de executar uma série de ações – o nosso robô modelado é capaz de se mover, pegar caixas, entregar as caixas e até mesmo falar. 
 A Figura 3 mostra como o conceito de método está relacionado aos conceitos de classe e objeto.
 
-![](https://github.com/MoacirParticular/POO-o-que-programa-o-orientada-a-objetos/blob/main/Imagens/POO%20-%20Métodos.png)
+![](https://github.com/MoacirParticular/MoacirParticular/blob/main/Imagens/POO%20-%20Métodos.png)
 
 Vamos imaginar que o método mover o robô R-801 foi chamado para a localização prateleira 3. Dessa forma, o robô executa a ação de se mover até o local indicado. De forma semelhante, imagine que o método falar do robô R-801 foi invocado com o argumento nome: nesse caso, a ação executada é dizer o próprio nome, razão pela qual o robô falará “O meu nome é R-801”.
 
@@ -279,7 +279,7 @@ Veja que no exemplo acima não conseguiremos alterar o método andar(), pois ele
 
 
 ### Imagem da Ide com o exemplo
-![](https://github.com/MoacirParticular/POO-o-que-programa-o-orientada-a-objetos/blob/main/Imagens/POO-Polimorfismo%20Erro.png)
+![](https://github.com/MoacirParticular/MoacirParticular/blob/main/Imagens/POO-Polimorfismo%20Erro.png)
 
 
 
